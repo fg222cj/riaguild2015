@@ -1,0 +1,18 @@
+{
+	"name": "Fabian Nachenius",
+	"github": "fg222cj",
+	"projectrepo": "",
+	"projectdesc": "",
+	"slack": "fg222cj",
+	"presentation": "Dad, student and backend developer at www.novitell.se. In what little spare time I have, I enjoy tabletop RPGs, board games and tinkering with arduinos.",
+	"icon": "monster$mudcrawler",
+	"blogposts": [
+		{
+			"when": "2015-11-16 11:16",
+			"url": "https://github.com/fg222cj/2DV607/blob/gh-pages/blog/entry01.md",
+			"title": "First blog post"
+		}
+	],
+	"pullrequests": [
+	]
+}
